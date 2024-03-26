@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 NLP-Projects\Spam Classification\spam.tsv
+NLP-projects\Word-Embeddings\reddit_worldnews_start_to_2016-11-22.csv
